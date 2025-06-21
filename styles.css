@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://images.rawpixel.com/image_social_landscape/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zNzgtMDkta255OWZoM2IuanBn.jpg");
+    margin-left: 30px;
+    margin-right: 30px;
+}
+h2{
+    font-weight:bolder;
+    color:azure;
+    border: 1px dashed white;
+    border-radius: 10px;
+    padding: 5px 0px 5px 30px;
+}
+.nav{
+    background-color: rgb(255, 255, 255,0.4);
+    border-radius: 15px;
+    padding:10px;
+}
+div a{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 3px;
+    padding: 5px 20px 5px 20px;
+}
+.movies, .songs, .artists{
+    border: 2px dashed aliceblue;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+h3{
+    color: white;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    height: 150px;
+    width: 100px;
+    border: 1px solid aliceblue;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.all{
+    border: 1px dashed aliceblue; 
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.line{
+    border: 1px solid aliceblue; 
+    background-color: aliceblue;
+    width: 100%;
+}
